@@ -68,9 +68,23 @@ form {
   font-size: 1.5rem;
 }
 
+.user {
+  background-color: blue;
+}
+
+.contact {
+  background-color: red;
+}
+
+.about {
+  background-color: green;
+}
+
 .task button:hover {
   background-color: rgb(255, 0, 0, 0.7);
   transition: 0.1s;
 }
 
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
